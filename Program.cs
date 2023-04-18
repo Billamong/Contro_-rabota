@@ -26,8 +26,6 @@ for (int i = 0; i < massiv.Length; i++)
 }
 
 Console.WriteLine();
-for (int i = 0; i < array.Length; i++){
-    if(array !=0)
-        Console.Write($"{array[i]}, ");
-}
+Console.Write(string.Join(" ", array));
+
 
