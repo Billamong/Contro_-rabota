@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\С#\Contro_-rabota\bin\Debug\net6.0\Contro_-rabota.exe
+C:\Users\user\Desktop\С#\Contro_-rabota\bin\Debug\net6.0\Contro_-rabota.deps.json
+C:\Users\user\Desktop\С#\Contro_-rabota\bin\Debug\net6.0\Contro_-rabota.runtimeconfig.json
+C:\Users\user\Desktop\С#\Contro_-rabota\bin\Debug\net6.0\Contro_-rabota.dll
+C:\Users\user\Desktop\С#\Contro_-rabota\bin\Debug\net6.0\Contro_-rabota.pdb
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\Contro_-rabota.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\Contro_-rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\Contro_-rabota.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\Contro_-rabota.AssemblyInfo.cs
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\Contro_-rabota.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\Contro_-rabota.dll
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\refint\Contro_-rabota.dll
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\Contro_-rabota.pdb
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\Contro_-rabota.genruntimeconfig.cache
+C:\Users\user\Desktop\С#\Contro_-rabota\obj\Debug\net6.0\ref\Contro_-rabota.dll
