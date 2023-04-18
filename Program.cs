@@ -12,6 +12,7 @@
     }
 }
 
+
 Console.Clear();
 string[] massiv = { "12355", "2", "Tu",
       "Wednesday", "Join", "151", "-5" };
