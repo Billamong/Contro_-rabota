@@ -1,31 +1,23 @@
-﻿
-// string[] array (string[] args)
-// {
-//     // Инициализация массива строк
-//     string[] daysOfWeek = { "Sunday", "Monday", "Tuersday",
-//       "Wednesday", "Thirsday", "Friday", "Saturday" };
-
-//     // Вывод массива строк AS в цикле
-//     for (int i = 0; i < args.Length; i++)
-//         Console.WriteLine("AS[{0}] = {1}", i, daysOfWeek[i]);
-//     Console.ReadKey();
-// }
-
-Console.Clear();
-string[] massiv = { "Sunday", "Monday", "Tu",
-      "Wednesday", "Thi", "Friday", "Saturday" };
-string[] array = new string[10];
-int j =0;
-for (int i = 0; i < massiv.Length; i++)
-{
-    Console.Write($"{massiv[i]}, ");
-        if (massiv[i].Length <= 3){
-            array[j] += massiv[i];
+﻿void ZapolnenieStoki(string[] one, string[] two)
+{   
+    int j = 0;
+    for (int i = 0; i < one.Length; i++)
+    {
+        Console.Write($"{one[i]}, ");
+        if (one[i].Length <= 3)
+        {
+            two[j] += one[i];
             j++;
         }
+    }
 }
 
+Console.Clear();
+string[] massiv = { "12355", "2", "Tu",
+      "Wednesday", "Join", "151", "-5" };
+string[] fin = new string[massiv.Length];
+ZapolnenieStoki(massiv, fin);
 Console.WriteLine();
-Console.Write(string.Join(" ", array));
+Console.Write(string.Join(" ", fin));
 
 
